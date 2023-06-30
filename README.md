@@ -1,7 +1,7 @@
 # Tableau-challenge
 DataViz Bootcamp HW
 
-*Note Raw data CSV files were to large to add to github*
+*Note: Raw data CSV files were to large to add to github*
 
 Dataset was retrived from: https://s3.amazonaws.com/tripdata/index.html
 
